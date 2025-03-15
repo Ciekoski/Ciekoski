@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá, eu sou o [Eduardo] e bem-vindo ao meu GitHub! 👋
 
-<!--
-**Ciekoski/Ciekoski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
+Sou uma pessoa que gosta de desafios e ama programação. Atualmente, estou focado em [Python], porém sempre buscando aprender coisas novas.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Habilidades [Em construção...]
+- **Linguagens:** Python, JavaScript, C.
+- **Ferramentas:** Git, VS Code.
+- **Frameworks:** 
+  
+## Contato
+- 📧 E-mail: [eduardoengbra@gmail.com](mailto:eduardoengbra@gmail.com)
+- 💼 LinkedIn: [Eduardo Ciekoski Martins]([(https://www.linkedin.com/in/eduardo-ciekoski-martins-247906343/)])
