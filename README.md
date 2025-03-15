@@ -10,4 +10,4 @@ Sou uma pessoa que gosta de desafios e ama programação. Atualmente, estou foca
   
 ## Contato
 - 📧 E-mail: [eduardoengbra@gmail.com](mailto:eduardoengbra@gmail.com)
-- 💼 LinkedIn: [Eduardo Ciekoski Martins]([(https://www.linkedin.com/in/eduardo-ciekoski-martins-247906343/)])
+- 💼 LinkedIn: [Eduardo Ciekoski Martins](https://www.linkedin.com/in/eduardo-ciekoski-martins-247906343/)
