@@ -6,7 +6,6 @@ Sou uma pessoa que gosta de desafios e ama programação. Atualmente, estou foca
 ## Habilidades [Em construção...]
 - **Linguagens:** Python, JavaScript, C.
 - **Tecnologias web:** HTML, CSS.
-- **Ferramentas:** Git, VS Code.
 - **Frameworks:** 
   
 ## Contato
